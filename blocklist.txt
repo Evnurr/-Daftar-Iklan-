@@ -3,3 +3,4 @@
 ||browserleaks.com^
 ||bilibili.tv^
 ||internetsociety.org^
+||tinyurl.com^
