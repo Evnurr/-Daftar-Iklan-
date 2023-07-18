@@ -1,4 +1,4 @@
 ||kompas.com^
 ||detik.com^
-||tribun.com^
+||tribunnews.com^
 ||bilibili.tv^
