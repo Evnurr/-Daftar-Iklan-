@@ -2,3 +2,4 @@
 ||detik.com^
 ||tribunnews.com^
 ||bilibili.tv^
+||internetsociety.org^
