@@ -1,5 +1,5 @@
 ||kompas.com^
 ||detik.com^
-||tribunnews.com^
+||browserleaks.com^
 ||bilibili.tv^
 ||internetsociety.org^
