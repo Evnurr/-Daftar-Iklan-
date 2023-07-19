@@ -1,3 +1,6 @@
+! Title: AdGuard DNS filter
+! Description: Memblokir situs yang ingin di blok!!
+
 ||kompas.com^
 ||detik.com^
 ||browserleaks.com^
